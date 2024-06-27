@@ -7,3 +7,7 @@ git checkout -b <branch_name> -> creates a new branch & moves us to that new bra
 git init -> initialize your local git repo
 git add <filename> -> add the specific file to the staging area
 git commit -m "<custom message>" -> commits/saves all the changes of those files which were staging area
+
+git config --global user.name "<Github_Username>" -> sets the author's username
+git config --global user.email "<Github_Email>" -> sets the author's email
+git config --list -> list all the Configuration of the repo/git
