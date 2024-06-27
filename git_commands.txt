@@ -12,3 +12,4 @@ git push origin <branch_name> -> upload/update the commited file of your local r
 git config --global user.name "<Github_Username>" -> sets the author's username
 git config --global user.email "<Github_Email>" -> sets the author's email
 git config --list -> list all the Configuration of the repo/git
+hello
