@@ -6,4 +6,6 @@
 
 ->created a github account on github.com
 ->Configuration for gitbash author (One time process)
+->Authorise git to connect to your local system (one time process)
 ->Created a Github Repo
+->push the code to the online github repo
