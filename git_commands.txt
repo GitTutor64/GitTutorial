@@ -1,0 +1,9 @@
+git status -> show the status of all the files in the current directory
+git branch -> list all the branches present in the cureent repo
+git branch <branch_name> -> create a branch with the branch_name specified
+git checkout <branch_name> -> change our branch
+git checkout -b <branch_name> -> creates a new branch & moves us to that new branch
+
+git init -> initialize your local git repo
+git add <filename> -> add the specific file to the staging area
+git commit -m "<custom message>" -> commits/saves all the changes of those files which were staging area
